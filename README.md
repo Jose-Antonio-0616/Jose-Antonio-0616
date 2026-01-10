@@ -36,12 +36,15 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jose-Antonio-0616&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Antonio-0616&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Antonio-0616&theme=tokyonight" alt="Perfil" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Antonio-0616&theme=tokyonight" alt="Lenguajes" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-Antonio-0616&theme=tokyonight" alt="Commits" />
+</p>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jabm0616" target="_blank">
