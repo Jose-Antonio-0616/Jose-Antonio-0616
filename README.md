@@ -36,15 +36,11 @@
 
 ---
 
-### 📊 Estadísticas
+### 🔥 Actividad en GitHub
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Antonio-0616&theme=tokyonight" alt="Perfil" />
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Antonio-0616&theme=tokyonight" alt="Lenguajes" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-Antonio-0616&theme=tokyonight" alt="Commits" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose-Antonio-0616&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jabm0616" target="_blank">
