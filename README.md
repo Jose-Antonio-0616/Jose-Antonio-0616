@@ -39,7 +39,7 @@
 ### 🔥 Mi Actividad
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-barrios&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&cache=v1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose-Antonio-0616&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&cache=v1" alt="GitHub Streak" />
 </div>
 
 <div align="center"> 
